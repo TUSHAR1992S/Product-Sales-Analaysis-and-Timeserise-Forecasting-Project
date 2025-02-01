@@ -1,7 +1,7 @@
 # Product-Sales-Analaysis-and-Timeserise-Forecasting-Project
 ##### Objective : To build and deploy a Prodcut Sales Analysis and Time Serise forecasting model.
 ## Resources: 
-- App Link: 
+- App Link: https://tushar-sales-forcast.streamlit.app/ 
 - Technical Blog : 
 - Video Link : 
 

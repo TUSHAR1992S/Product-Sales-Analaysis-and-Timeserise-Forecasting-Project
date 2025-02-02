@@ -3,7 +3,7 @@
 ## Resources: 
 - App Link: https://tushar-sales-forcast.streamlit.app/ 
 - Technical Blog : 
-- Video Link : 
+- Video Link : https://www.loom.com/share/0a9bd77a6a3d41c6b608b6a22ad60a5e?sid=70dee6e6-0d76-4071-b812-d21345610e2c 
 - GitHub Repository : https://github.com/TUSHAR1992S/Product-Sales-Analaysis-and-Timeserise-Forecasting-Project
 ## Visualization: 
 - Made a tableau sales forecasting dashboard.

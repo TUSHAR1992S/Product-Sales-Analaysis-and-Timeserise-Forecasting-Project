@@ -5,6 +5,7 @@
 - Technical Blog : https://medium.com/@tushar1992s/product-sales-analysis-and-time-series-forecasting-by-tushar-33cf3f077057 
 - Video Link : https://www.loom.com/share/0a9bd77a6a3d41c6b608b6a22ad60a5e?sid=70dee6e6-0d76-4071-b812-d21345610e2c 
 - GitHub Repository : https://github.com/TUSHAR1992S/Product-Sales-Analaysis-and-Timeserise-Forecasting-Project
+
 ## Visualization: 
 - Made a tableau sales forecasting dashboard.
 - Tableau Dashboard Link : https://public.tableau.com/app/profile/tushar.shrivasatav/viz/Product_Sales_Analysis_and_Time_Series_Forecast/1_SalesPerformanceDashboard 
